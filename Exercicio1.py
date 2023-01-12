@@ -17,3 +17,4 @@ else:
 
 print('O valor sem frete foi: %.2f' % (valorProduto * valorQuantidade))
 print('O valor com frete foi: %.2f (Frete de R$ %.2f)' % (valorProduto * valorQuantidade + valorFrete, valorFrete))
+
