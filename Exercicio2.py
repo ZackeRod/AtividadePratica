@@ -6,7 +6,6 @@ print('|    ES    | Sabores Especiais    |       R$ 7,00       |       R$ 12,00 
 print('|    PR    | Sabores Premium      |       R$ 8,00       |       R$ 14,00       |       R$ 24,00     |')
 print('-----------------------------------------------------------------------------------------------------')
 
-
 def tradicionais(valor=None):
     if tamanho == "P":
         valor = trP

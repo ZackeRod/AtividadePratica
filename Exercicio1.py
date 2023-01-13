@@ -10,7 +10,7 @@ elif 11 <= valorQuantidade < 101:
     valorFrete = 60.0
 elif 101 <= valorQuantidade < 1001:
     valorFrete = 120.0
-elif valorQuantidade >= 1001:
+if valorQuantidade >= 1001:
     valorFrete = 240.0
 else:
     print('Quantidade Incorreta!!')
