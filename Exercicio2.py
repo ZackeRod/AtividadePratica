@@ -1,4 +1,4 @@
-print('Bem-Vindo a Sorveteria do Isaque da Silva Rodrigues')
+print('Bem-Vindo a Sorveteria do Isaque')
 print('---------------------------------------------Cardápio------------------------------------------------')
 print('|  Código  |     Descrição        |  Tamanho P (500ml)  |  Tamanho M (1000ml)  |  Tamanho G (1000ml)|')
 print('|    TR    | Sabores Tradicionais |       R$ 6,00       |       R$ 10,00       |       R$ 18,00     |')
