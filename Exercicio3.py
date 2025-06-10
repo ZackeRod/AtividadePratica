@@ -1,4 +1,4 @@
-print('Bem-vindo ao Programa de Serviços de Limpeza do Isaque da Silva Rodrigues')
+print('Bem-vindo ao Programa de Serviços de Limpeza do Isaque')
 print('*' * 80)
 
 def metragem_limpeza():
