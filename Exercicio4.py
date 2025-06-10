@@ -1,4 +1,4 @@
-print('Bem-Vindo ao Controle de Funcionários do Isaque da Silva Rodrigues')
+print('Bem-Vindo ao Controle de Funcionários do Isaque')
 print('*' * 76)
 
 # lista que armazena os dicionários
