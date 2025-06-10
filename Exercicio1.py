@@ -1,4 +1,4 @@
-print('Bem-vindo a Loja de Isaque da Silva Rodrigues')
+print('Bem-vindo a Loja de Isaque')
 
 valorProduto = float(input('Entre com valor do produto: '))
 valorQuantidade = float(input('Entre com valor da quantidade: '))
